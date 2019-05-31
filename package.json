@@ -1,0 +1,28 @@
+{
+  "name": "sistemasgod.com",
+  "version": "1.0.0",
+  "description": "Página en Construcción de Asesorías en Sistemas GOD S.A.S",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calypsobronte/sistemasgod.com.git"
+  },
+  "keywords": [
+    "dev",
+    "cloud",
+    "servidores",
+    "data",
+    "website",
+    "teams",
+    "microsoft"
+  ],
+  "author": "Lina María Montaño Ramírez (Calypso Brontë )",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calypsobronte/sistemasgod.com/issues"
+  },
+  "homepage": "https://github.com/calypsobronte/sistemasgod.com#readme"
+}
