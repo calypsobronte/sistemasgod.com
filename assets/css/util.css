@@ -7,7 +7,7 @@
         City/Country: Medellín/Colombia
         Project: Sitio web en Contrucción
         Version:  v1.0.0
-        License: MIT
+        License: MIT - License: MIT - https://github.com/calypsobronte/sistemasgod.com/blob/master/LICENSE
         -----------------------------Modifications-------------------------
         Last change: 31/05/2019  
         Assigned to:  Lina María Montaño Ramírez (Calypso Brontë  🦄 🔻 )

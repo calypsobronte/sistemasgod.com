@@ -11,3 +11,7 @@
 * HTML
 * JS
 * CSS
+
+## License
+[MIT](https://github.com/calypsobronte/sistemasgod.com/blob/master/LICENSE)
+
